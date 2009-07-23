@@ -1,0 +1,14 @@
+ORDENANZA REGIONAL
+Nº 001-2009-GRMDD/CR
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Madre de Dios, en Sesión Ordinaria llevada a cabo el 17 de febrero del año 2009, aprobó la siguiente Ordenanza Regional.
+CONSIDERANDO:
+Que, el artículo 2 de la Ley N° 27867, Ley Orgánica de Gobiernos Regionales y sus modificatorias, establece que los Gobiernos Regionales emanan de la voluntad popular. Son personas jurídicas de derecho público, con autonomía política, económica y administrativa en asuntos de su competencia, constituyendo, para su administración económica y financiera, un Pliego Presupuestal, en concordancia con el artículo 15, inciso a) y artículo 38 de la precitada ley.
+Que, mediante Ordenanza Regional No. 015-2007-GRMDD/CR, de fecha 18 de diciembre del año 2007, el Consejo Regional de Madre de Dios, aprobó Crear en el Gobierno Regional de Madre de Dios la “Condecoración Faustino Maldonado en el Grado de Gran Expedicionario de la República”, encargándose al Ejecutivo Regional la elaboración del reglamento de la mencionada ordenanza para ser aprobado por el Consejo Regional.
+Que, mediante Oficio No. 003-2009-GOREMAD-GGR, de fecha 21 de enero del 2009, en cumplimiento al encargo referido anteriormente, la Gerencia General Regional, remite al Consejo Regional, el “Proyecto de Reglamento para el Otorgamiento de la Condecoración Faustino Maldonado en el Grado de Gran Expedicionario de la República”, para su tratamiento legal.
+Que, mediante Informe N° 004-2009-GOREMAD/ DRAJ, la Dirección Regional de Asesoría Jurídica, opina favorablemente para la aprobación del mencionado reglamento.
+Que, mediante Dictamen N° 001-2009-GOREMAD/ CECTDYC, de fecha 27 de enero del 2009, la Comisión Ordinaria de Educación, Ciencia, Tecnología, Deporte y Cultura, emite opinión favorable para la aprobación del “Reglamento para el Otorgamiento de la Condecoración Faustino Maldonado en el Grado de Gran Expedicionario de la República”.
+Que, el Consejo Regional en pleno, en sesión ordinaria, luego del análisis y debate correspondiente, con el voto aprobatorio unánime de los Consejeros Regionales, ha considerado pertinente aprobar el Dictamen referido en el considerando precedente. Consecuentemente, aprobar el “Reglamento para el Otorgamiento de la Condecoración Faustino Maldonado en el Grado de Gran Expedicionario de la República”.
+Que, conforme a lo dispuesto por el artículo 38 de la Ley N° 27867, Ley Orgánica de Gobiernos Regionales, las Ordenanzas Regionales norman asuntos de carácter general, la organización y la administración del Gobierno Regional y reglamentan materias de su competencia.
+El Consejo Regional de Madre de Dios, en uso de las facultades conferidas por la Constitución Política del Perú; Ley No. 27867, Ley Orgánica de Gobiernos Regionales y sus modificatorias,
+HA DADO LA ORDENANZA REGIONAL SIGUIENTE:
