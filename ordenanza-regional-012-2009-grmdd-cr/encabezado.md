@@ -1,0 +1,18 @@
+ORDENANZA REGIONAL
+Nº 012-2009-GRMDD/CR
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Madre de Dios, en Sesión Ordinaria llevada a cabo el 23 de marzo del año 2009, aprobó la siguiente Ordenanza Regional.
+CONSIDERANDO:
+Que, los Gobiernos Regionales emanan de la voluntad popular, son personas de derecho público, con autonomía política, económica y administrativa, teniendo por misión organizar y conducir la gestión pública regional de acuerdo a sus competencias exclusivas, compartidas y delegadas en el marco de las políticas nacionales y sectoriales, para la contribución al desarrollo integral y sostenible de la región.
+Que, el artículo 51, Inciso c) de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, señala que: son funciones en materia agraria “Participar en la gestión sostenible del recurso hídrico en el marco de las entidades de cuencas y las políticas de la autoridad nacional de aguas”.
+Que, el artículo 4 de la precitada Ley, señala que los Gobiernos Regionales tienen por finalidad esencial “Fomentar el desarrollo regional integral sostenible, promoviendo la inversión pública y privada y el empleo; y, garantizar el ejercicio pleno de los derechos y la igualdad de oportunidades de sus habitantes, de acuerdo con los planes y programas nacionales, regionales y locales de desarrollo”.
+Que, por sus características fisiográficas, Madre de Dios cuenta con importantes cuencas hidrográficas, las mismas que poseen valiosos recursos naturales que es necesario preservar, así como promover su desarrollo en armonía con los intereses de nuestra región.
+Que, en mérito a estas consideraciones, resulta necesario poner en relieve el interés del Gobierno Regional en el presente tema, así como instalar legalmente la conformación de un Consejo Regional de Cuencas, el mismo que deberá proponer las acciones necesarias para un tratamiento especial a las cuencas hidrográficas de la Región de Madre de Dios.
+Que, el Consejero Regional Ing. Emerson Bocanegra Pérez, ha elaborado el Proyecto de Ordenanza Regional que “Declara de Interés Regional el Desarrollo de las Cuencas Hidrográficas de la Región de Madre de Dios”, así como “Crea el Consejo Regional de Cuencas de la Región de Madre de Dios”.
+Que, mediante Opinión Legal Nº 004-2009-GOREMAD/ ORAJ, la Oficina Regional de Asesoría Jurídica, considera coherente el proyecto en mención y opina favorablemente, para la emisión de la presente ordenanza.
+Que, mediante Oficio Nº 470-2009-GOREMAD/ GRRNYGMA, la Gerencia Regional de Recursos Naturales y Gestión del Medio Ambiente, remite la Opinión Técnica correspondiente, que opina favorablemente para la aprobación del mencionado proyecto, lo que ha sido puesto a consideración de la comisión pertinente.
+Que, mediante Dictamen Nº 005-2009-CAMAYA, la Comisión Agraria, Medio Ambiente y Amazonía del Consejo Regional, emite opinión favorable para su debate y correspondiente aprobación del mencionado proyecto.
+Que, el Consejo Regional en pleno, en sesión ordinaria, luego del análisis y debate correspondiente, con el voto aprobatorio por unanimidad de los Consejeros Regionales ha considerado necesario aprobar el Dictamen referido en el considerando precedente.
+Que, de conformidad con el artículo 38° de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, las Ordenanzas Regionales norman asuntos de carácter general, la organización y la administración del Gobierno Regional; y, reglamentan materias de su competencia.
+El Consejo Regional de Madre de Dios, en uso de las facultades conferidas por la Constitución Política del Perú; Ley Nº 27867, Ley Orgánica de Gobiernos Regionales y sus modificatorias.
+HA DADO LA ORDENANZA REGIONAL SIGUIENTE;
