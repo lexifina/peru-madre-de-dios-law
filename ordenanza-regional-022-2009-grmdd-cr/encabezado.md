@@ -1,0 +1,16 @@
+ORDENANZA REGIONAL
+Nº 022-2009-GRMDD/CR
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Madre de Dios, en Sesión Ordinaria de fecha 03 de julio del 2009.
+CONSIDERANDO:
+Que, el Consejo Regional tiene las atribuciones de normar la organización del Gobierno Regional a través de las Ordenanzas Regionales, en concordancia con el inciso a), del artículo 15 de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, que faculta aprobar, modificar o derogar las normas que regulen o reglamenten los asuntos y materias de competencia y funciones del Gobierno Regional.
+Que, de acuerdo a lo señalado por el Inciso a), del artículo 64 de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, son funciones del Gobierno Regional en materia de artesanía: “Formular, aprobar, ejecutar y evaluar las políticas en materia de desarrollo de la artesanía”; así mismo, en el Inciso b), del mencionado artículo precisa como funciones: “Planificar concertadamente y ejecutar el desarrollo de la actividad artesanal de la región, mediante el aprovechamiento de las potencialidades regionales”.
+Que, la Ley Nº 29073, Ley del Artesano y de la Actividad Artesanal, establece que “El régimen jurídico reconoce al artesano como constructor de identidad y tradiciones culturales, que regula el desarrollo sostenible, la protección y promoción de la actividad artesanal en todas sus modalidades, preservando para ello la tradición artesanal en todas sus modalidades, en todas sus expresiones propias de cada lugar, difundiendo y promoviendo sus técnicas y procedimientos de elaboración…”
+Que, el Consejo Regional de Fomento Artesanal, debe ser un órgano consultivo dependiente directamente de la Presidencia Regional, el mismo que procesará las acciones y programas a través de la Gerencia General Regional y la Gerencia de Desarrollo Económico, con la finalidad de formular políticas públicas a favor de los artesanos en el ámbito de la Región Madre de Dios.
+Que, el Consejero Regional Bach. Germán Alonso Ramírez Martínez, remite una propuesta de Ordenanza Regional, a fin de Crear el Consejo Regional de Fomento Artesanal de la Región Madre de Dios.
+Que, mediante Informe Legal N° 010-2009-GOREMAD/ ORAJ, la Oficina Regional de Asesoría Jurídica, considera coherente el proyecto en mención y opina favorablemente, para la emisión de la presente ordenanza.
+Que, mediante Dictamen Nº 001-2009-GOREMAD/ CCITYA, la Comisión de Comercio, Industria, Turismo y Artesanía del Consejo Regional, emite opinión favorable para su debate y correspondiente aprobación del mencionado proyecto.
+Que, el Consejo Regional en pleno, en sesión ordinaria, luego del análisis y debate correspondiente, con el voto por unanimidad de los Consejeros Regionales, ha considerado necesario aprobar el Dictamen referido en el considerando precedente.
+Que, de conformidad con el artículo 38 de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, las Ordenanzas Regionales norman asuntos de carácter general, la organización y la administración del Gobierno Regional; y, reglamentan materias de su competencia.
+El Consejo Regional de Madre de Dios, en uso de las facultades conferidas por la Constitución Política del Perú; Ley Nº 27867, Ley Orgánica de Gobiernos Regionales y sus modificatorias.
+HA DADO LA ORDENANZA REGIONAL SIGUIENTE:
