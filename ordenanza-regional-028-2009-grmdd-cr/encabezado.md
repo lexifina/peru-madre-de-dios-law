@@ -1,0 +1,16 @@
+ORDENANZA REGIONAL
+Nº 028-2009-GRMDD/CR
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Madre de Dios, en Sesión Ordinaria llevada a cabo el 25 de agosto del año 2009, aprobó la siguiente Ordenanza Regional.
+CONSIDERANDO:
+Que, los Gobiernos Regionales emanan de la voluntad popular, son personas de derecho público, con autonomía política, económica y administrativa, teniendo por misión organizar y conducir la gestión pública regional de acuerdo a sus competencias exclusivas, compartidas y delegadas en el marco de las políticas nacionales y sectoriales, para la contribución al desarrollo integral y sostenible de la región.
+Que, el Consejo Regional tiene las atribuciones de normar la organización del Gobierno Regional a través de las Ordenanzas Regionales, en concordancia con el inciso a), del artículo 15º de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, en la que faculta aprobar, modificar o derogar las normas que regulen o reglamenten los asuntos y materias de competencia y funciones del Gobierno Regional.
+Que, el artículo 55º de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, establece que son funciones específicas de los Gobiernos Regionales en materia de Comercio Exterior el formular, aprobar, ejecutar, evaluar, dirigir, controlar y administrar las políticas en materia de comercio de la región, en concordancia con las políticas nacionales y los planes sectoriales, en concordancia con las entidades del sector público competentes en la materia.
+Que, diferentes estudios y análisis de la cadena productiva de la Hevea Brasiliensis (Shiringa), concluyen señalando que la Shiringa es una de las alternativas para el desarrollo y la inclusión económica de agricultores del departamento de Madre de Dios (Provincia de Tahuamanu). En esa perspectiva la Shiringa tiene un impacto positivo a nivel económico, social, ecológico y cultural como producto de alto valor estratégico para el desarrollo de la región y la superación de la pobreza.
+Que, el Bach. Germán Alonso Ramírez Martínez, Consejero Regional, presentó ante el Consejo Regional el Proyecto de Ordenanza Regional, a fin de Declarar a la Hevea Brasiliensis (Shiringa), como Producto Bandera de la Región Madre de Dios.
+Que, mediante Informe Nº 340-2009-GOREMAD/ GRDE, la Gerencia Regional de Desarrollo Económico, remite la Opinión Técnica favorable respecto al proyecto referido en el considerando precedente.
+Que, mediante Oficio Nº 100-2009-GOREMAD-ORAJ, la Oficina Regional de Asesoría Jurídica, remite el Informe Legal Nº 055-2009-GOREMAD-OAJ/EMP, mediante el cual se considera coherente el proyecto en mención y opina favorablemente, para la emisión de la presente ordenanza.
+Que, mediante Dictamen Nº 009-2009-GOREMAD/ CAMAYA, la Comisión Agraria, Medio Ambiente y Amazonía del Consejo Regional, emite opinión favorable para su debate y correspondiente aprobación del mencionado proyecto.
+Que, el Consejo Regional en pleno, en sesión ordinaria, luego del análisis y debate correspondiente, con el voto por unanimidad de los Consejeros Regionales ha considerado necesario aprobar el Dictamen referido precedentemente.
+El Consejo Regional de Madre de Dios, en uso de las facultades conferidas por la Constitución Política del Perú; Ley Nº 27867, Ley Orgánica de Gobiernos Regionales y sus modificatorias.
+Ha dado la Ordenanza Regional siguiente:
