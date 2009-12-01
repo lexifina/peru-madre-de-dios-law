@@ -1,0 +1,15 @@
+ORDENANZA REGIONAL
+Nº 026-2009-RMDD/CR
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Madre de Dios, en Sesión Extraordinaria de fecha 14 de julio del 2009.
+CONSIDERANDO:
+Que, el Consejo Regional tiene las atribuciones de normar la organización del Gobierno Regional a través de las Ordenanzas Regionales, en concordancia con el inciso a), del artículo 15 de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, en el que faculta aprobar, modificar o derogar las normas que regulen o reglamenten los asuntos y materias de competencia y funciones del Gobierno Regional.
+Que, la misma norma legal, señala en su artículo 49, Inciso c), que son funciones en materia de salud “Coordinar las acciones de salud en el ámbito regional”, así mismo, en el Inciso i), dispone “Conducir y ejecutar coordinadamente con los órganos competentes la prevención y control de riesgos y daños de emergencias y desastres”.
+Que, la Organización Mundial de la Salud (OMS) ha elevado a Fase 6 la Alerta de Pandemia de la Influenza AH1N1, debiendo los Estados adoptar las medidas necesarias para disminuir los riesgos para la salud de sus poblaciones.
+Que, en el país ya se han presentado un número significativo de casos de contagio de este tipo de virus, así mismo, en la Región Madre de Dios, también se han presentado casos de contagio de esta enfermedad; por lo que, se hace necesario que el Gobierno Regional adopte medidas sanitarias orientadas a disminuir los riesgos de contagio por el mencionado virus.
+Que, de acuerdo a las disposiciones Internacionales emitidas el 26 de abril del 2009, por el Centro de Enfermedades de Atlanta CDC EE.UU., se recomienda el uso de respiradores Nº 95 en personas que están en contacto con casos de Influenza AH1N1. Motivo por el cual, es pertinente dictar medidas de carácter obligatorio para adoptar este tipo de protección en el ámbito de la Región Madre de Dios.
+Que, mediante Oficio Nº 526-2009-GOREMAD/PR, la Presidencia del Gobierno Regional, hace de conocimiento el Acta de Reunión Extraordinaria del Consejo Regional de Salud, el mismo que entre otros acuerdos, ha considerado solicitar la emisión de una ordenanza regional que disponga el uso obligatorio de mascarillas de protección en lugares con ambientes cerrados, en todo el ámbito de la Región Madre de Dios.
+Que, analizada la solicitud, el Consejo Regional ha considerado pertinente y oportuna la misma; por lo que, luego del análisis y debate correspondiente, con el voto unánime de los Consejeros Regionales ha estimado necesario aprobar la solicitud referida en el considerando precedente.
+Que, de conformidad con el artículo 38° de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, las Ordenanzas Regionales norman asuntos de carácter general, la organización y la administración del Gobierno Regional; y, reglamentan materias de su competencia.
+El Consejo Regional de Madre de Dios, en uso de las facultades conferidas por la Constitución Política del Perú; Ley Nº 27867, Ley Orgánica de Gobiernos Regionales y sus modificatorias.
+HA DADO LA ORDENANZA REGIONAL SIGUIENTE:
