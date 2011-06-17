@@ -1,0 +1,15 @@
+(Se publica la presente resolución a solicitud del Gobierno Regional de Madre de Dios, mediante Oficio N° 773-2011-GOREMAD/PR, recibido el 14 de junio de 2011)
+ORDENANZA REGIONAL
+Nº 005-2010-GRMDD/CR
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Madre de Dios, en Sesión Ordinaria llevada a cabo el 28 de abril del año 2010, aprobó la siguiente Ordenanza Regional.
+CONSIDERANDO:
+Que, los Gobiernos Regionales emanan de la voluntad popular, son personas de derecho público, con autonomía política, económica y administrativa, teniendo por misión organizar y conducir la gestión pública regional, de acuerdo a sus competencias exclusivas, compartidas y delegadas en el marco de las políticas nacionales y sectoriales, para la contribución al desarrollo integral y sostenible de la región.
+Que, mediante Ordenanza Regional Nº 007-2009-GRMDD/CR, de fecha 03 de marzo del 2009, el Consejo Regional de Madre de Dios, ha creado la “Comisión Técnica de Cambio Climático de la Región de Madre de Dios”, señalando su conformación.
+Que, mediante Ordenanza Regional 029-2009-GRMDD/ CR, se modificó el Artículo Primero de la Ordenanza Regional N° 007-2009-GRMDD/CR, en cuanto corresponde al nombre y a la conformación de la comisión creada.
+Que, mediante Oficio N° 107-2010-SERNANP, el Jefe del Servicio Nacional de Áreas Naturales Protegidas por el Estado (SERNANP), solicita la modificatoria de la Ordenanza Regional N° 007-2009-GRMDD/CR, señalando que el Instituto Nacional de Recursos Naturales (INRENA), ha sido fusionado con el Ministerio de Agricultura mediante Decreto Supremo N° 030-2008-AG; asimismo, la Intendencia de Áreas Naturales Protegidas de dicha entidad se ha fusionado con el Servicio Nacional de Áreas Naturales Protegidas por el Estado (SERNANP), de conformidad con lo dispuesto por la Tercera Disposición Complementaria del Decreto Legislativo N° 1013, norma que aprueba la Ley de Creación Organización y Funciones del Ministerio del Ambiente.
+Que, la Gestión de las Áreas Naturales Protegidas de Administración Nacional, como es el caso del Parque Nacional del Manu, se encuentran a cargo del SERNANP; por lo que, la designación de sus funcionarios para participar en comisiones multisectoriales, requiere de la autorización previa del Jefe del SERNANP.
+Que, mediante el Dictamen N° 001-2010-GOREMAD/ CAMAYA, la Comisión Agraria, Medio Ambiente y Amazonía del Consejo Regional, emite opinión favorable para su debate y correspondiente aprobación de la propuesta de la modificatoria mencionada.
+Que, el Consejo Regional en Pleno, en Sesión Ordinaria, luego del análisis y debate correspondiente, con el voto por mayoría de los Consejeros Regionales, ha considerado necesario aprobar el Dictamen referido precedentemente. Consecuentemente, se modifique la Ordenanza Regional N° 007-2009-GRMDD/CR y la Ordenanza Regional N° 029-2009-GRMDD/CR, conforme a la propuesta.
+El Consejo Regional de Madre de Dios, en uso de las facultades conferidas por la constitución política del Perú: Ley N° 27867, Ley Orgánica de Gobiernos Regionales y sus modificatorias.
+Ha dado la Ordenanza Regional siguiente:
