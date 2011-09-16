@@ -1,0 +1,13 @@
+ORDENANZA REGIONAL
+Nº 003-2011-GRMDD/CR
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Madre de Dios, en Sesión Ordinaria llevada a cabo el 13 de julio del año 2011, aprobó la siguiente Ordenanza Regional.
+CONSIDERANDO:
+Que, los Gobiernos Regionales emanan de la voluntad popular, son personas de derecho público, con autonomía política, económica y administrativa, teniendo por misión organizar y conducir la gestión pública regional, de acuerdo a sus competencias exclusivas, compartidas y delegadas en el marco de las políticas nacionales y sectoriales, para la contribución al desarrollo integral y sostenible de la región.
+Que, el Consejo Regional tiene las atribuciones de normar la organización del Gobierno Regional a través de las Ordenanzas Regionales, en concordancia con el inciso a), del artículo 15 de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, que faculta aprobar, modificar o derogar las normas que regulen o reglamenten los asuntos y materias de competencia y funciones del Gobierno Regional.
+Que, mediante Ordenanza Regional Nº 035-2010-GRMDD/CR, el Consejo Regional de Madre de Dios Declaró en Estado de Emergencia Ambiental el Sector denominado La Pampa, ubicado en la Provincia de Tambopata, Departamento de Madre de Dios, por Deterioro Ambiental.
+Que, mediante Oficio Nº 846-2011-GOREMAD/ PR, el señor José Luis Aguirre Pastor, Presidente Regional, solicitó la derogatoria de la ordenanza referida precedentemente, adjuntando el Oficio Nº 165-2011-GOREMAD/GRRNYGMA, de la Gerencia Regional de Recursos Naturales y Gestión del Medio Ambiente, mediante el cual se señala que según Ley Nº 28804, Ley que Regula la Emergencia Ambiental, la declaratoria de emergencia ambiental es competencia del ejecutivo nacional vía Ministerio del Ambiente.
+Que, mediante Informe Nº 001-2011-GOREMAD/ CEMHTCVYC-CR, la Comisión de Energía, Minas, Hidrocarburos, Transporte, Comunicaciones, Vivienda y Construcción del Consejo Regional, concluye que en mérito al análisis técnico legal efectuado, propone al Pleno del Consejo regional la Derogatoria de la Ordenanza Regional Nº 035-2010-GRMDD/CR, por contener vicios de legalidad, al exceder las competencias reservadas para el Consejo Regional en materia de Declaratoria de Emergencia Ambiental.
+Que, estando al informe en mención, el Consejo Regional en sesión ordinaria, luego del análisis y debate correspondiente, por mayoría los Consejeros Regionales, ha estimado aprobar el mismo.
+El Consejo Regional de Madre de Dios, en uso de las facultades conferidas por la Constitución Política del Estado; Ley Nº 27867, Ley Orgánica de Gobiernos Regionales y sus modificatorias.
+Ha dado la Ordenanza Regional siguiente:
