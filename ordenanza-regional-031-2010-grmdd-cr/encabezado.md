@@ -1,0 +1,13 @@
+ORDENANZA REGIONAL
+Nº 031-2010-GRMDD/CR
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Madre de Dios, en Sesión Ordinaria llevada a cabo, el 27 de octubre del 2010.
+CONSIDERANDO:
+Que, los Gobiernos Regionales emanan de la voluntad popular, son personas de derecho público, con autonomía política, económica y administrativa, teniendo por misión organizar y conducir la gestión pública regional de acuerdo a sus competencias exclusivas, compartidas y delegadas en el marco de las políticas nacionales y sectoriales, para la contribución al desarrollo integral y sostenible de la región.
+Que, el artículo 38 de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, establece que las Ordenanzas Regionales norman asuntos de carácter general, la organización y la administración del Gobierno Regional y reglamentan materias de su competencia.
+Que, mediante Ordenanza Regional Nº 012-2010-GRMDD/CR, de fecha 31 de agosto del 2010, se resuelve entre otros: En el Artículo Primero.- Declarar como una de las prioridades del Gobierno Regional de Madre de Dios, promover el respeto de los derechos humanos y fundamentalmente defender el derecho a la libertad y el derecho a la vida, luchando contra la Trata de Personas con enfoque de Derechos Humanos, Derechos del Niño, Género, Interculturalidad, Territorialidad y Equidad. Así como en el Artículo Segundo.- Se conforma, la Comisión Regional Multisectorial Permanente contra la Trata de Personas de Madre de Dios, en donde el numeral 7, dice Sector Justicia, (Titular; Jefe de la Oficina de Defensores de Oficio de Madre de Dios).
+Que, mediante Oficio Nº 257-2010-JUS/DGDP-D-MADRE DE DIOS, el Abg. Alexander Cáceres Martínez, de la Dirección de Defensa Pública, solicita a la Gerencia de Desarrollo Social, la corrección de la ordenanza referida precedentemente, en cuanto se refiere al Numeral 7 del Artículo Segundo, debiendo decir: Dirección General de Defensa Pública – Sede Madre de Dios – Ministerio de Justicia.
+Que, mediante Oficio Nº 1911-2010-GOREMAD/ GRDS, el Lic. Carlos E. Carrasco Polanco, Gerente de Desarrollo Social, solicita al Consejo Regional la corrección de la norma regional en los términos referidos anteriormente.
+Que, el Consejo Regional en Pleno, en Sesión Ordinaria, luego del análisis y debate correspondiente, con el voto aprobatorio por unanimidad de los Consejeros Regionales, ha considerado necesario aprobar la solicitud de modificatoria correspondiente.
+Que, el Consejo Regional de Madre de Dios, en uso de las facultades conferidas por la Constitución Política del Estado; Ley Nº 27867, Ley Orgánica de los Gobiernos Regionales y sus modificatorias.
+Ha dado la Ordenanza Regional siguiente
