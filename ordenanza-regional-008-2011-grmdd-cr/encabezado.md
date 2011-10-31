@@ -1,0 +1,16 @@
+ORDENANZA REGIONAL
+Nº 008-2011-GRMDD/CR
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Madre de Dios, en Sesión Ordinaria llevada a cabo el 21 de setiembre del año 2011, aprobó la siguiente Ordenanza Regional.
+CONSIDERANDO:
+Que, los Gobiernos Regionales emanan de la voluntad popular, son personas de derecho público, con autonomía política, económica y administrativa, teniendo por misión la de organizar y conducir la gestión pública regional, de acuerdo a sus competencias exclusivas, compartidas y delegadas en el marco de las políticas nacionales, sectoriales y regionales, para la contribución del desarrollo integral y sostenible de la región.
+Que, el artículo 38 de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, establece que las Ordenanzas Regionales norman asuntos de carácter general, la organización y la administración del Gobierno Regional y reglamentan materias de su competencia.
+Que, mediante Oficio Nº 969-2011-GOREMAD-DRS, el Dr. Jorge Luís Asencios Rivera, Director General de la Dirección Regional de Salud de Madre de Dios, remite el Ejecutivo Regional el Plan Regional Concertado de Salud 2007 – 2011, a fin de que se oficialice y sea aprobado por la instancia de gobierno correspondiente.
+Que, el Plan Regional Concertado de Salud 2007 – 2011, es el resultado del trabajo concertado y participativo realizado por las instituciones del Estado y de la sociedad civil, que directa o indirectamente están involucradas en acciones orientadas a mejorar la salud de la población de Madre de Dios.
+Que, mediante Informe Legal Nº 622-2011-GOREMAD/ ORAJ, la Oficina Regional de Asesoría Jurídica, opina que el proyecto de Ordenanza Regional, sobre el Plan Concertado Regional de Salud 2007-2011, está conforme con el ordenamiento jurídico nacional; por tanto, debe ser sometido al procedimiento pertinente para su aprobación por parte del Consejo Regional.
+Que, mediante Informe Nº 077-2011-GOREMAD/ GRPPYAT/SGP, la Sub Gerencia de Planeamiento, Presupuesto y Acondicionamiento Territorial, señala que el Plan Regional Concertado de Salud 2007 – 2011, ha sido elaborado de acuerdo al Plan de Desarrollo Regional Concertado 2007 – 2021 y el Plan Estratégico Institucional 2008 – 2010 y concuerda con sus objetivos.
+Que, mediante Oficio Nº 1005-2011-GOREMAD/PR, el señor José Luís Aguirre Pastor, Presidente Regional, solicita al Consejo Regional, la aprobación del Plan Concertado Regional de Salud 2007-2011.
+Que, mediante Dictamen Nº 002-2011-GOREMAD/ CPFTPEPYME, la Comisión de Presupuesto, Fiscalización, Trabajo, Promoción del Empleo, la Pequeña y Micro Empresa del Consejo Regional, conforme al análisis efectuado al plan referido precedentemente, propone y recomienda al pleno del Consejo Regional su debate y aprobación correspondiente.
+Que, el Consejo Regional en Pleno, en Sesión Ordinaria, luego del análisis y debate correspondiente, con el voto aprobatorio por unanimidad de los Consejeros Regionales, ha considerado necesario aprobar el Dictamen que sustenta el proyecto de ordenanza, referido a la aprobación del Plan Concertado Regional de Salud 2007-2011.
+Que, el Consejo Regional de Madre de Dios, en uso de las facultades conferidas por la Constitución Política del Estado; Ley Nº 27867, Ley Orgánica de los Gobiernos Regionales y sus modificatorias.
+Ha dado la Ordenanza Regional siguiente:
