@@ -1,0 +1,14 @@
+ORDENANZA REGIONAL
+Nº 016-2011-RMDD/CR
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Madre de Dios, en Sesión Ordinaria llevada a cabo, el 16 de diciembre del 2011.
+CONSIDERANDO:
+Que, los Gobiernos Regionales emanan de la voluntad popular, son personas de derecho público, con autonomía política, económica y administrativa, teniendo por misión la de organizar y conducir la gestión pública regional, de acuerdo a sus competencias exclusivas, compartidas y delegadas en el marco de las políticas nacionales, sectoriales y regionales, para la contribución del desarrollo integral y sostenible de la región.
+Que, el artículo 38 de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, establece que las Ordenanzas Regionales norman asuntos de carácter general, la organización y la administración del Gobierno Regional y reglamentan materias de su competencia.
+Que, mediante Pedido Nº 021-2011-GOREMAD-CR/APAR, el Consejero Regional Aurelio Pantaleón Alpaca Ruíz, solicita que por Ordenanza Regional se declare, Día Feriado No Laborable, el 26 de diciembre de todos los años, por ser la fecha de conmemoración de la histórica creación del Departamento de Madre de Dios.
+Que, mediante Ley Nº 1782, fue creado el Departamento de Madre de Dios, el 26 de diciembre de 1912, el mismo que se encuentra situado en el suroriente del país, abarcado en su totalidad por la Amazonía. Recibió su nombre del Río Madre de Dios, de cuya cuenca son tributarios la mayor parte de los ríos de la región y sobre cuyas orillas se emplaza la capital, Puerto Maldonado.
+Que, mediante Ordenanza Regional Nº 043-2006-GRMDD/CR, de fecha 22 de diciembre del 2006 (durante la gestión 2003-2006), se declaró como feriado no laborable la fecha de conmemoración de la creación del Departamento de Madre de Dios (26 de diciembre de todos los años); sin embargo, la mencionada norma regional nunca llegó a ser publicada en el Diario Oficial El Peruano; más aun, en el siniestro del local de la Sede Regional (incendio julio 2008), se quemaron todos los ejemplares junto a todos sus antecedentes.
+Que, en atención a lo anteriormente señalado, se hace imperativo y necesario se declare dicho feriado no laborable, a fin de darle espacio y brillo a las actividades conmemorativas por el aniversario de creación del Departamento de Madre de Dios.
+Que, estando al pedido en mención, el Consejo Regional en Pleno, en Sesión Ordinaria, luego del análisis y debate correspondiente, con el voto aprobatorio por unanimidad de los Consejeros Regionales, ha considerado necesario aprobar el mismo.
+Que, el Consejo Regional de Madre de Dios, en uso de las facultades conferidas por la Constitución Política del Estado; Ley N° 27867, Ley Orgánica de los Gobiernos Regionales y sus modificatorias.
+HA DADO LA ORDENANZA REGIONAL SIGUIENTE:
