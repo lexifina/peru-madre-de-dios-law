@@ -1,0 +1,16 @@
+CONSEjO REGIONAL
+ORDENANZA REGIONAL
+Nº 017-2024-RMDD/CR
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Madre de Dios, en Sesión Ordinaria realizada el día jueves 14 de marzo del 2024, en su sede actual sito en el Coliseo Cerrado de Puerto Maldonado, ha aprobado la siguiente Ordenanza Regional.
+CONSIDERANDO:
+Que, los Gobiernos Regionales son personas jurídicas de derecho público, emanan de la voluntad popular, gozan de autonomía política, económica y administrativa, y tienen por misión, organizar y conducir la gestión pública regional, de acuerdo a sus competencias exclusivas, compartidas y delegadas en el marco de las políticas nacionales y sectoriales.
+Que, el Consejo Regional es el órgano normativo y fiscalizador del Gobierno Regional y de conformidad con el literal a) del artículo 15 de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, tiene entre otras atribuciones, las de aprobar, modificar o derogar las normas que regulen o reglamenten los asuntos y materias de competencia y funciones del Gobierno Regional.
+Que, el artículo 38 de la precitada ley, establece que: “Las Ordenanzas Regionales norman asuntos de carácter general, la organización y la administración del Gobierno Regional y reglamentan materias de su competencia”.
+Que, es responsabilidad del Estado peruano, asegurar el ejercicio ético y transparente de la función pública en todos sus niveles de organización y gestión. Consecuente con ello, promover e implementar políticas y acciones, para prevenir y combatir la corrupción.
+Que, con el propósito de generar espacios de articulación para la implementación de políticas en materia de integridad y lucha contra la corrupción, el Gobierno Nacional ha emitido la Ley N° 29976, que crea la Comisión de Alto Nivel Anticorrupción en la cual establece también la obligación de los gobiernos regionales y locales de crear Comisiones Regionales y Locales Anticorrupción, en su respectiva jurisdicción.
+Que, mediante Decreto Supremo N° 169-2021-PCM, se modifica por adición de los Títulos V y VI, el Reglamento de la Ley N° 29976. En el artículo 25 de dicho instrumento normativo, se dispone la creación de la Comisión Regional Anticorrupción a través de una ordenanza regional. Asimismo, se regula las funciones, conformación y demás aspectos inherentes a dicha entidad.
+Que, de conformidad con lo establecido por la Ley N° 29976, y su Reglamento aprobado por Decreto Supremo N° 089-2013-PCM, modificado por Decreto Supremo N° 089-2013-PCM y luego por Decreto Supremo N° 169-2021-PCM, la Comisión Regional Anticorrupción de Madre de Dios, es de naturaleza permanente y está adscrita al Gobierno Regional de Madre de Dios.
+Que, la Comisión de Presupuesto y Fiscalización del Consejo Regional de Madre de Dios, a través del Informe N° 004-2024-GOREMAD-CR/CPYF, propone y concluye que se debe crear la Comisión Regional Anticorrupción de Madre de Dios, de conformidad con las disposiciones legales y las exigencias de nuestra realidad.
+El Consejo Regional de Madre de Dios, en uso de las facultades conferidas por la Constitución Política del Estado; Ley N° 27867, Ley Orgánica de Gobiernos Regionales y sus modificatorias, por unanimidad.
+HA DADO LA ORDENANZA REGIONAL SIGUIENTE:
