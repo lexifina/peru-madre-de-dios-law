@@ -147,20 +147,67 @@ Dios | 1 | 2020-10-05 to 2020-10-05 |
 | `ordenanza-regional-019-2011-rmdd-cr` | Ordenanza Regional N° 019-2011-RMDD/CR: Aprueban el Manual de Procedimientos Administrativos de la Unidad de Archivo Institucional del Gobierno Regional | 1 | 2012-07-20 to 2012-07-20 |
 | `ordenanza-regional-002-2012-rmdd-cr` | Ordenanza Regional N° 002-2012-RMDD/CR: Aprueban Reglamento Interno de la Comisión Ambiental Regional - CAR del Gobierno Regional de Madre de Dios | 1 | 2012-07-08 to 2012-07-08 |
 | `ordenanza-regional-004-2012-rmdd-cr` | Ordenanza Regional N° 004-2012-RMDD/CR: Aprueban Cuadro para Asignación de Personal (CAP) 2011 del Hospital Santa Rosa de Puerto Maldonado | 1 | 2012-07-08 to 2012-07-08 |
+| `ordenanza-regional-003-2012-rmdd-cr` | Ordenanza Regional N° 003-2012-RMDD/CR: Aprueban Cuadro para Asignación de Personal de la Dirección Regional de Salud de Madre de Dios | 1 | 2012-07-08 to 2012-07-08 |
+| `ordenanza-regional-001-2012-rmdd-cr` | Ordenanza Regional N° 001-2012-RMDD/CR: Modifican la Ordenanza Regional N° 011-2010-GRMDD/CR con el objeto de incorporar a la Municipalidad Provincial de Manu como miembro integrante de la Comisión Ambiental Regional - CAR de la Región Madre de Dios | 1 | 2012-07-08 to 2012-07-08 |
+| `ordenanza-regional-010-2012-rmdd-cr` | Ordenanza Regional N° 010-2012-RMDD/CR: Declaran de interés regional la regularización de inscripciones de nacimiento de personas indocumentadas y las rectificaciones de datos en las partidas del registro de estado civil del departamento de Madre de Dios | 1 | 2012-07-08 to 2012-07-08 |
+| `ordenanza-regional-012-2012-grmdd-cr` | Ordenanza Regional N° 012-2012-GRMDD/CR: Institucionalizan el Congreso Regional de Investigación y Monitoreo Biológico en Áreas Naturales Protegidas y Corredores de Conservación - Madre de Dios | 1 | 2012-07-08 to 2012-07-08 |
+| `ordenanza-regional-007-2012-grmdd-cr` | Ordenanza Regional N° 007-2012-GRMDD/CR: Aprueban documentos de gestión de la Sede del Gobierno Regional de Madre de Dios | 1 | 2012-07-08 to 2012-07-08 |
+| `ordenanza-regional-005-2012-grmdd-cr` | Ordenanza Regional N° 005-2012-GRMDD/CR: Aprueban documentos de gestión de la Unidad Ejecutora 1392 - Sub Región Manu | 1 | 2012-05-12 to 2012-05-12 |
+| `ordenanza-regional-013-2011-grmdd-cr` | Ordenanza Regional N° 013-2011-GRMDD/CR: Declaran como Prioridad Regional el Fortalecimiento del Sistema de Evaluación y Fiscalización Ambiental y conforman el "Grupo Técnico para el Fortalecimiento del Sistema Nacional de Evaluación y Fiscalización Ambiental en el Departamento de Madre de Dios" | 1 | 2012-03-11 to 2012-03-11 |
+| `ordenanza-regional-012-2011-grmdd-cr` | Ordenanza Regional N° 012-2011-GRMDD/CR: Declaran al departamento de Madre de Dios como Zona Libre de Transgénicos | 1 | 2012-03-11 to 2012-03-11 |
+| `ordenanza-regional-007-2010-grmdd-cr` | Ordenanza Regional N° 007-2010-GRMDD/CR: Convocan al Proceso de Elaboración del Presupuesto Participativo del Gobierno Regional de Madre de Dios - Año Fiscal 2011 | 1 | 2012-03-10 to 2012-03-10 |
+| `ordenanza-regional-017-2011-rmdd-cr` | Ordenanza Regional N° 017-2011-RMDD/CR: Aprueban Texto Único de Procedimientos Administrativos (TUPA 2011) de la Dirección Regional de Educación de Madre de Dios | 1 | 2012-01-27 to 2012-01-27 |
+| `ordenanza-regional-016-2011-rmdd-cr` | Ordenanza Regional N° 016-2011-RMDD/CR: Declaran Día Feriado No laborable el 26 de diciembre de todos los años por ser la fecha de conmemoración de la creación del Departamento de Madre de Dios | 1 | 2012-01-12 to 2012-01-12 |
+| `ordenanza-regional-014-2011-rmdd-cr` | Ordenanza Regional N° 014-2011-RMDD/CR: Modifican el Reglamento Interno del Consejo Regional | 1 | 2012-01-12 to 2012-01-12 |
+| `ordenanza-regional-007-2011-grmdd-cr` | Ordenanza Regional N° 007-2011-GRMDD/CR: Aprueban el Reglamento de Organización y Funciones  y el Cuadro para Asignación de Personal de la Gerencia Sub Regional de Manu | 1 | 2011-12-22 to 2011-12-22 |
+| `ordenanza-regional-010-2011-grmdd-cr` | Ordenanza Regional N° 010-2011-GRMDD/CR: Aprueban Plan de Formalización y Reconversión de la Minería en Madre de Dios | 1 | 2011-11-26 to 2011-11-26 |
+| `ordenanza-regional-016-2010-grmdd-cr` | Ordenanza Regional N° 016-2010-GRMDD/CR: Modifican el Reglamento de Organización y Funciones del Gobierno Regional de Madre de Dios | 1 | 2011-10-22 to 2011-10-22 |
+| `ordenanza-regional-005-2011-grmdd-cr` | Ordenanza Regional N° 005-2011-GRMDD/CR: Declaran al Lobo de Río como especie representativa de la Región de Madre de Dios | 1 | 2011-10-16 to 2011-10-16 |
+| `ordenanza-regional-006-2011-grmdd-cr` | Ordenanza Regional N° 006-2011-GRMDD/CR: Declaran temporalmente como  Zona de Tránsito Fluvial Restringido el sector denominado Yanayacu | 1 | 2011-10-02 to 2011-10-02 |
+| `ordenanza-regional-003-2011-grmdd-cr` | Ordenanza Regional N° 003-2011-GRMDD/CR: Derogan la Ordenanza Regional N° 035-2010-GRMDD/CR, mediante la cual se declaró en Estado de Emergencia Ambiental el Sector denominado La Pampa, ubicado en la provincia de Tambopata, por deterioro ambiental | 1 | 2011-09-16 to 2011-09-16 |
+| `ordenanza-regional-012-2010-grmdd-cr` | Ordenanza Regional N° 012-2010-GRMDD/CR: Conforman la Comisión Regional Multisectorial Permanente contra la Trata de Personas de Madre de Dios | 1 | 2011-09-16 to 2011-09-16 |
+| `ordenanza-regional-002-2011-grmdd-cr` | Ordenanza Regional N° 002-2011-GRMDD/CR: Crean la Agencia de Fomento a la Inversión Privada de Madre de Dios | 1 | 2011-09-16 to 2011-09-16 |
+| `ordenanza-regional-013-2010-grmdd-cr` | Ordenanza Regional N° 013-2010-GRMDD/CR: Crean la Comisión Transitoria Intersectorial y de la Sociedad Civil de la Región Madre de Dios, para elaborar la propuesta del "Plan Regional de Igualdad de Oportunidades de la Región de Madre de Dios 2011-2021" | 1 | 2011-09-16 to 2011-09-16 |
+| `ordenanza-regional-017-2010-grmdd-cr` | Ordenanza Regional N° 017-2010-GRMDD/CR: Crean la Oficina de Atención a las Personas con Discapacidad | 1 | 2011-09-16 to 2011-09-16 |
+| `ordenanza-regional-039-2010-grmdd-cr` | Ordenanza Regional N° 039-2010-GRMDD/CR: Aprueban Plan Regional para la Prevención de Quemas e Incendios Forestales en la Región Madre de Dios | 1 | 2011-09-16 to 2011-09-16 |
+| `ordenanza-regional-029-2010-grmdd-cr` | Ordenanza Regional N° 029-2010-GRMDD/CR: Aprueban Documentos de Gestión Institucional de la Dirección Regional de Trabajo y Promoción del Empleo | 1 | 2011-09-16 to 2011-09-16 |
+| `ordenanza-regional-034-2010-grmdd-cr` | Ordenanza Regional N° 034-2010-GRMDD/CR: Aprueban Documentos de Gestión Institucional del Proyecto Especial Minero Ambiental del Gobierno Regional de Madre de Dios | 1 | 2011-09-16 to 2011-09-16 |
+| `ordenanza-regional-028-2010-grmdd-cr` | Ordenanza Regional N° 028-2010-GRMDD/CR: Aprueban Documentos de Gestión Institucional de la Dirección Regional de Salud | 1 | 2011-09-16 to 2011-09-16 |
+| `ordenanza-regional-030-2010-grmdd-cr` | Ordenanza Regional N° 030-2010-GRMDD/CR: Aprueban el "Plan Regional de la juventud de la Región de Madre de Dios 2010-2021" | 1 | 2011-09-16 to 2011-09-16 |
+| `ordenanza-regional-031-2010-grmdd-cr` | Ordenanza Regional N° 031-2010-GRMDD/CR: Modifican el Numeral 7 del Artículo Segundo de la Ordenanza Regional N° 012-2010-GRMDD/CR | 1 | 2011-09-16 to 2011-09-16 |
+| `ordenanza-regional-004-2011-grmdd-cr` | Ordenanza Regional N° 004-2011-GRMDD/CR: Declaran de interés regional la conservación del área denominada Señor de la Cumbre | 1 | 2011-09-16 to 2011-09-16 |
+| `ordenanza-regional-005-2010-grmdd-cr` | Ordenanza Regional N° 005-2010-GRMDD/CR: Modifican el Artículo Primero de la Ordenanza Regional N° 007-2009-GRMDD/CR, en lo relativo al nombre de la "Comisión Técnica para la Adaptación y Mitigación al Cambio Climático en la Región Madre de Dios" | 1 | 2011-06-17 to 2011-06-17 |
+| `ordenanza-regional-011-2010-grmdd-cr` | Ordenanza Regional N° 011-2010-GRMDD/CR: Crean la Comisión Ambiental Regional (CAR) de Madre de Dios | 1 | 2011-06-14 to 2011-06-14 |
+| `ordenanza-regional-025-2010-grmdd-cr` | Ordenanza Regional N° 025-2010-GRMDD/CR: Modifican artículo 24° del Reglamento Interno del Consejo Regional | 1 | 2011-06-11 to 2011-06-11 |
+| `ordenanza-regional-027-2010-grmdd-cr` | Ordenanza Regional N° 027-2010-GRMDD/CR: Derogan la Ordenanza Regional N° 022-2010-GRMDD/CR | 1 | 2011-06-11 to 2011-06-11 |
+| `ordenanza-regional-035-2010-grmdd-cr` | Ordenanza Regional N° 035-2010-GRMDD/CR: Declaran en Estado de Emergencia Ambiental el Sector denominado La Pampa, ubicado en la provincia de Tambopata | 1 | 2011-06-11 to 2011-06-11 |
+| `ordenanza-regional-036-2010-grmdd-cr` | Ordenanza Regional N° 036-2010-GRMDD/CR: Aprueban el Reglamento de Organización y Funciones y el Cuadro para Asignación de Personal de la Dirección Regional de Vivienda, Construcción y Saneamiento | 1 | 2011-06-11 to 2011-06-11 |
+| `ordenanza-regional-033-2010-grmdd-cr` | Ordenanza Regional N° 033-2010-GRMDD/CR: Aprueban Reglamento para la elección y participación de representantes de las organizaciones de la sociedad civil ante el Consejo de Coordinación Regional | 1 | 2011-05-27 to 2011-05-27 |
+| `ordenanza-regional-001-2011-grmdd-cr` | Ordenanza Regional N° 001-2011-GRMDD/CR: Convocan al Proceso de Elaboración del Presupuesto Participativo del Gobierno Regional de Madre de Dios - Año Fiscal 2012 | 1 | 2011-05-27 to 2011-05-27 |
+| `ordenanza-regional-032-2010-grmdd-cr` | Ordenanza Regional N° 032-2010-GRMDD/CR: Declaran de Interés Público Regional la Protección y Defensa de los Derechos de los Pueblos Indígenas en Aislamiento Voluntario y Contacto Inicial en la Región Madre de Dios | 1 | 2011-05-23 to 2011-05-23 |
+| `ordenanza-regional-024-2010-grmdd-cr` | Ordenanza Regional N° 024-2010-GRMDD/CR: Aprueban la Estrategia para el Desarrollo y la Integración Fronteriza de Madre de Dios 2011-2021 | 1 | 2011-04-05 to 2011-04-05 |
+| `ordenanza-regional-026-2010-grmdd-cr` | Ordenanza Regional N° 026-2010-GRMDD/CR: Aprueban modificación del Cuadro para Asignación de Personal del Proyecto Especial Madre de Dios | 1 | 2011-04-04 to 2011-04-04 |
+| `ordenanza-regional-023-2010-grmdd-cr` | Ordenanza Regional N° 023-2010-GRMDD/CR: Aprueban Manual de Operaciones del Proyecto Especial Madre de Dios | 1 | 2011-04-04 to 2011-04-04 |
+| `ordenanza-regional-021-2010-grmdd-cr` | Ordenanza Regional N° 021-2010-GRMDD/CR: Modifican la Ordenanza Regional N° 009-2010-GRMDD/CR | 1 | 2010-12-23 to 2010-12-23 |
+| `ordenanza-regional-019-2010-grmdd-cr` | Ordenanza Regional N° 019-2010-GRMDD/CR: Transfieren funciones y competencias sobre Micro y Pequeña Empresa - MYPE a la Dirección Regional de la Producción | 1 | 2010-12-23 to 2010-12-23 |
+| `ordenanza-regional-014-2010-grmdd-cr` | Ordenanza Regional N° 014-2010-GRMDD/CR: Crean la Gerencia Regional de la Juventud | 1 | 2010-12-23 to 2010-12-23 |
+| `ordenanza-regional-022-2010-grmdd-cr` | Ordenanza Regional N° 022-2010-GRMDD/CR: Declaran de interés regional el Proceso de Nombramiento por incorporación del personal contratado que viene laborando en la sede Central, Direcciones Regionales Sectoriales y Unidades Ejecutoras del Gobierno Regional de Madre de Dios | 1 | 2010-11-30 to 2010-11-30 |
+| `ordenanza-regional-008-2010-grmdd-cr` | Ordenanza Regional N° 008-2010-GRMDD/CR: Crean el Proyecto Especial Minero Ambiental de Madre de Dios - PEMA | 1 | 2010-10-31 to 2010-10-31 |
+| `ordenanza-regional-006-2010-grmdd-cr` | Ordenanza Regional N° 006-2010-GRMDD/CR: Aprueban ROF y CAP de la Dirección Regional de Transportes y Comunicaciones | 1 | 2010-06-06 to 2010-06-06 |
 
-The build made 129 commits:
+The build made 176 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 129 | first version of an act |
+| 176 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 130 laws in the record.
-- 258 tags.
+- 177 laws in the record.
+- 352 tags.
 
 ## Dates
 
@@ -172,7 +219,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `ffb01f90fdd2d0355a8ec77c261ee24c714938e99933ad354684adc0b2fec5c9` (1404179 bytes).
+- Corpus: sha256 `241f712d9a1a188235770299441c6837a0ca838d4d33fea3f93c271b0af3bdca` (1870653 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
