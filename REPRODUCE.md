@@ -194,20 +194,51 @@ Dios | 1 | 2020-10-05 to 2020-10-05 |
 | `ordenanza-regional-022-2010-grmdd-cr` | Ordenanza Regional N° 022-2010-GRMDD/CR: Declaran de interés regional el Proceso de Nombramiento por incorporación del personal contratado que viene laborando en la sede Central, Direcciones Regionales Sectoriales y Unidades Ejecutoras del Gobierno Regional de Madre de Dios | 1 | 2010-11-30 to 2010-11-30 |
 | `ordenanza-regional-008-2010-grmdd-cr` | Ordenanza Regional N° 008-2010-GRMDD/CR: Crean el Proyecto Especial Minero Ambiental de Madre de Dios - PEMA | 1 | 2010-10-31 to 2010-10-31 |
 | `ordenanza-regional-006-2010-grmdd-cr` | Ordenanza Regional N° 006-2010-GRMDD/CR: Aprueban ROF y CAP de la Dirección Regional de Transportes y Comunicaciones | 1 | 2010-06-06 to 2010-06-06 |
+| `ordenanza-regional-035-2009-grmdd-cr` | Ordenanza Regional N° 035-2009-GRMDD/CR: Aprueban la Prohibición de la Discriminación en todos sus ámbitos y formas en la jurisdicción del Gobierno Regional | 1 | 2010-05-13 to 2010-05-13 |
+| `ordenanza-regional-002-2010-grmdd-cr` | Ordenanza Regional N° 002-2010-GRMDD/CR: Autorizan inicio del proceso de formulación del Plan Vial Participativo de la Región Madre de Dios | 1 | 2010-05-13 to 2010-05-13 |
+| `ordenanza-regional-029-2009-grmdd-cr` | Ordenanza Regional N° 029-2009-GRMDD/CR: Modifican Ordenanza N° 007-2009-GRMDD/CR referente a la creación de comisión técnica relativa al cambio climático en la región | 1 | 2010-03-07 to 2010-03-07 |
+| `ordenanza-regional-039-2009-grmdd-cr` | Ordenanza Regional N° 039-2009-GRMDD/CR: Declaran de necesidad e interés regional la formalización y reordenamiento de la minería en la Región de Madre de Dios | 1 | 2010-02-18 to 2010-02-18 |
+| `ordenanza-regional-040-2009-grmdd-pr` | Ordenanza Regional N° 040-2009-GRMDD/PR: Incorporan la Estrategia Nacional CRECER en las políticas regionales y en el Plan de Desarrollo Regional de Madre de Dios | 1 | 2010-02-18 to 2010-02-18 |
+| `ordenanza-regional-038-2009-goremad-cr` | Ordenanza Regional N° 038-2009-GOREMAD/CR: Declaran de interés regional los "Lineamientos de Política Agraria - Madre de Dios 2010-2021" | 1 | 2010-02-13 to 2010-02-13 |
+| `ordenanza-regional-033-2009-grmdd-cr` | Ordenanza Regional N° 033-2009-GRMDD/CR: Modifican el artículo 14 del Reglamento de Organización y Funciones del Gobierno Regional | 1 | 2009-12-20 to 2009-12-20 |
+| `ordenanza-regional-028-2009-grmdd-cr` | Ordenanza Regional N° 028-2009-GRMDD/CR: Declaran a la Hevea Brasiliensis (Shiringa) como Producto Bandera de la Región Madre de Dios | 1 | 2009-12-01 to 2009-12-01 |
+| `ordenanza-regional-021-2009-goremad-cr` | Ordenanza Regional N° 021-2009-GOREMAD/CR: Reconocen y aprueban el Plan Estratégico denominado "Cadena de Valor de la Castaña Amazónica del Perú" | 1 | 2009-12-01 to 2009-12-01 |
+| `ordenanza-regional-026-2009-rmdd-cr` | Ordenanza Regional N° 026-2009-RMDD/CR: Disponen el uso obligatorio de mascarillas de protección en lugares con ambientes cerrados, en todo el ámbito de la Región Madre de Dios,  a fin de evitar el contagio del Virus de la Influenza o Gripe AH1N1 | 1 | 2009-12-01 to 2009-12-01 |
+| `ordenanza-regional-003-2009-grmdd-cr` | Ordenanza Regional N° 003-2009-GRMDD/CR: Aprueban la "Directiva sobre implementación de Actividades Celebratorias en el mes de marzo, por el Día Internacional de la Mujer" en la Región Madre de Dios | 1 | 2009-12-01 to 2009-12-01 |
+| `ordenanza-regional-031-2009-grmdd-cr` | Ordenanza Regional N° 031-2009-GRMDD/CR: Modifican Reglamento Interno del Consejo Regional | 1 | 2009-11-30 to 2009-11-30 |
+| `ordenanza-regional-027-2009-rmdd-cr` | Ordenanza Regional N° 027-2009-RMDD/CR: Crean el Comité Directivo Regional para la Prevención y Erradicación del Trabajo Infantil de la Región Madre de Dios | 1 | 2009-11-30 to 2009-11-30 |
+| `ordenanza-regional-023-2009-grmdd-cr` | Ordenanza Regional N° 023-2009-GRMDD/CR: Crean el Consejo Regional de Turismo de la Región Madre de Dios | 1 | 2009-11-30 to 2009-11-30 |
+| `ordenanza-regional-024-2009-goremad-cr` | Ordenanza Regional N° 024-2009-GOREMAD/CR: Declaran en Estado de Emergencia Ambiental la Cuenca del Río Jayave, ubicado en la provincia de Tambopata | 1 | 2009-11-29 to 2009-11-29 |
+| `ordenanza-regional-018-2009-grmdd-cr` | Ordenanza Regional N° 018-2009-GRMDD/CR: Declaran de interés regional la prevención, atención y protección de la poblacion, frente al hostigamiento sexual | 1 | 2009-08-30 to 2009-08-30 |
+| `ordenanza-regional-019-2009-grmdd-scr` | Ordenanza Regional N° 019-2009-GRMDD/SCR: Declaran como una de las prioridades del Desarrollo Social del Gobierno Regional de Madre de Dios, la Promoción de los Derechos al Nombre y a la Identidad | 1 | 2009-08-30 to 2009-08-30 |
+| `ordenanza-regional-020-2009-grmdd-cr` | Ordenanza Regional N° 020-2009-GRMDD/CR: Formalizan la constitución de la "Mesa Interinstitucional Sobre el Servicio de Defensoría del Niño y del Adelescente" | 1 | 2009-08-30 to 2009-08-30 |
+| `ordenanza-regional-006-2009-grmdd-cr` | Ordenanza Regional N° 006-2009-GRMDD/CR: Prohiben la deambulación y permanencia de animales en las carreteras y caminos vecinales de la red vial del Departamento de Madre de Dios | 1 | 2009-08-30 to 2009-08-30 |
+| `ordenanza-regional-013-2009-grmdd-cr` | Ordenanza Regional N° 013-2009-GRMDD/CR: Conforman el Consejo Regional de Seguridad Vial - CORESEVI | 1 | 2009-08-07 to 2009-08-07 |
+| `ordenanza-regional-016-2009-grmdd-cr` | Ordenanza Regional N° 016-2009-GRMDD/CR: Ratifican Actas de Acuerdos de Límites Territoriales entre los Departamentos de Cusco, Madre de Dios y Ucayali, suscritas en el marco del proceso de Demarcación y Organización Territorial | 1 | 2009-08-07 to 2009-08-07 |
+| `ordenanza-regional-017-2009-grmdd-cr` | Ordenanza Regional N° 017-2009-GRMDD/CR: Declaran a la Castaña Amazónica del Perú como Producto Bandera de la Región Madre de Dios | 1 | 2009-08-07 to 2009-08-07 |
+| `ordenanza-regional-008-2009-grmdd-cr` | Ordenanza Regional N° 008-2009-GRMDD/CR: Crean el Consejo Regional de Trabajo y Promoción del Empleo de Madre de Dios | 1 | 2009-08-07 to 2009-08-07 |
+| `ordenanza-regional-004-2009-grmdd-cr` | Ordenanza Regional N° 004-2009-GRMDD/CR: Aprueban Texto Único de Procedimientos Administrativos de la Dirección Regional de Trabajo y Promoción del Empleo de Madre de Dios | 1 | 2009-08-07 to 2009-08-07 |
+| `ordenanza-regional-011-2009-grmdd-cr` | Ordenanza Regional N° 011-2009-GRMDD/CR: Declaran de Interés Regional la Promoción y Reactivación de la Actividad Forestal No Maderable de la Especie Shiringa | 1 | 2009-08-07 to 2009-08-07 |
+| `ordenanza-regional-010-2009-grmdd-cr` | Ordenanza Regional N° 010-2009-GRMDD/CR: Autorizan a la Dirección Regional de Transportes y Comunicaciones de Madre de Dios el otorgamiento de permisos excepcionales para el servicio de transporte interprovincial regular de personas en vehículos de las categorías M1, M2 y M3 | 1 | 2009-08-06 to 2009-08-06 |
+| `ordenanza-regional-009-2009-grmdd-cr` | Ordenanza Regional N° 009-2009-GRMDD/CR: Prohiben comercialización de alcohol metílico para consumo humano en la Región de Madre de Dios | 1 | 2009-07-23 to 2009-07-23 |
+| `ordenanza-regional-025-2009-grmdd-cr` | Ordenanza Regional N° 025-2009-GRMDD/CR: Modifican artículos 6 y 17  del Reglamento para el Desarrollo de las Audiencias Públicas del Gobierno Regional de Madre de Dios | 1 | 2009-07-23 to 2009-07-23 |
+| `ordenanza-regional-014-2009-grmdd-cr` | Ordenanza Regional N° 014-2009-GRMDD/CR: Convocan al Proceso de Elaboración del Presupuesto Participativo del Gobierno Regional de Madre de Dios - Año Fiscal 2010 | 1 | 2009-07-23 to 2009-07-23 |
+| `ordenanza-regional-012-2008-grmdd-cr` | Ordenanza Regional N° 012-2008-GRMDD/CR: Declaran de interés regional la Conservación de los Humedales, Lagos y Cochas ubicados en la Región Madre de Dios | 1 | 2009-06-20 to 2009-06-20 |
+| `ordenanza-regional-015-2009-grmdd-cr` | Ordenanza Regional N° 015-2009-GRMDD/CR: Crean la Mesa Regional de Diálogo y Concertación Forestal de Madre de Dios | 1 | 2009-06-08 to 2009-06-08 |
 
-The build made 176 commits:
+The build made 207 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 176 | first version of an act |
+| 207 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 177 laws in the record.
-- 352 tags.
+- 208 laws in the record.
+- 414 tags.
 
 ## Dates
 
@@ -219,7 +250,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `241f712d9a1a188235770299441c6837a0ca838d4d33fea3f93c271b0af3bdca` (1870653 bytes).
+- Corpus: sha256 `6dd78bb88c2aa9a0fac23ce9c4c9824ca0d8c672de93560cf9f5f8f26290705f` (2204076 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 

@@ -221,6 +221,42 @@
     "ordenanza-regional-039-2010-grmdd-cr"
    ],
    "sha256": "4a7442ebce3d5fab9fca962ae7ce358691aa9de2b60de5480cc3270b4884db48"
+  },
+  "33-runner-03.json": {
+   "acts": [
+    "ordenanza-regional-002-2010-grmdd-cr",
+    "ordenanza-regional-003-2009-grmdd-cr",
+    "ordenanza-regional-004-2009-grmdd-cr",
+    "ordenanza-regional-006-2009-grmdd-cr",
+    "ordenanza-regional-008-2009-grmdd-cr",
+    "ordenanza-regional-009-2009-grmdd-cr",
+    "ordenanza-regional-010-2009-grmdd-cr",
+    "ordenanza-regional-011-2009-grmdd-cr",
+    "ordenanza-regional-012-2008-grmdd-cr",
+    "ordenanza-regional-013-2009-grmdd-cr",
+    "ordenanza-regional-014-2009-grmdd-cr",
+    "ordenanza-regional-015-2009-grmdd-cr",
+    "ordenanza-regional-016-2009-grmdd-cr",
+    "ordenanza-regional-017-2009-grmdd-cr",
+    "ordenanza-regional-018-2009-grmdd-cr",
+    "ordenanza-regional-019-2009-grmdd-scr",
+    "ordenanza-regional-020-2009-grmdd-cr",
+    "ordenanza-regional-021-2009-goremad-cr",
+    "ordenanza-regional-023-2009-grmdd-cr",
+    "ordenanza-regional-024-2009-goremad-cr",
+    "ordenanza-regional-025-2009-grmdd-cr",
+    "ordenanza-regional-026-2009-rmdd-cr",
+    "ordenanza-regional-027-2009-rmdd-cr",
+    "ordenanza-regional-028-2009-grmdd-cr",
+    "ordenanza-regional-029-2009-grmdd-cr",
+    "ordenanza-regional-031-2009-grmdd-cr",
+    "ordenanza-regional-033-2009-grmdd-cr",
+    "ordenanza-regional-035-2009-grmdd-cr",
+    "ordenanza-regional-038-2009-goremad-cr",
+    "ordenanza-regional-039-2009-grmdd-cr",
+    "ordenanza-regional-040-2009-grmdd-pr"
+   ],
+   "sha256": "e1ca53505864d6a514e1e346f52cc54875ae5fb2e16d086f65525dbfdfdd43fa"
   }
  },
  "schema": 1
