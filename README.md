@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-90 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+130 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -102,6 +102,47 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-37-2012-rmdd-cr/` | Ordenanza Regional N° 37-2012-RMDD/CR: Declaran de interés regional la danza ceremonial ancestral denominada Sine: "La Fiesta de los Hijos de Wanamei" | in force 23 April 2013 |
 | `ordenanza-regional-36-2012-rmdd-cr/` | Ordenanza Regional N° 36-2012-RMDD/CR: Declaran de interés regional la prevención y control de la tuberculosis en el ámbito de la región | in force 23 April 2013 |
 | `ordenanza-regional-001-2013-rmdd-cr/` | Ordenanza Regional N° 001-2013-RMDD/CR: Crean el Instituto Regional de Biotecnología y Biodiversidad de Madre de Dios | in force 22 April 2013 |
+| `ordenanza-regional-007-2026-rmdd-cr/` | Ordenanza Regional N° 007-2026-RMDD/CR: Aprueban creación del Consejo Regional de Participación de la Juventud de Madre de Dios COREJU-MDD y el registro central… | in force 4 November 2026 |
+| `ordenanza-regional-002-2019-rmdd-cr/` | Ordenanza Regional N° 002-2019-RMDD/CR: Aprueban el Dictamen N° 002-2019-GOREMAD-CR/CAMAAYCCNN-P, sobre “Propuesta de conformación de la Mesa Multisectorial de … | in force 28 May 2021 |
+| `ordenanza-regional-006-2021-rmdd-cr/` | Ordenanza Regional N° 006-2021-RMDD/CR: Aprueban el Texto Único de Procedimientos Administrativos y Servicios Prestados en Exclusividad (TUPA - 2020) de la Dire… | in force 8 May 2021 |
+| `ordenanza-regional-004-2020-rmdd-cr/` | Ordenanza Regional N° 004-2020-RMDD/CR: Aprueban el Plan Estratégico Regional de Turismo de Madre de Dios 2020 - 2030 | in force 15 October 2020 |
+| `ordenanza-regional-012-2018-rmdd-cr/` | Ordenanza Regional N° 012-2018-RMDD/CR: Aprueban el Texto Único de Procedimientos Administrativos y Servicios Prestados
+en Exclusividad por el GOREMAD (TUPA 201… | in force 5 October 2020 |
+| `ordenanza-regional-008-2019-rmdd-cr/` | Ordenanza Regional N° 008-2019-RMDD/CR: Modifican el Reglamento de Organización y Funciones (ROF) y el organigrama estructural del Gobierno Regional de Madre de… | in force 4 December 2019 |
+| `ordenanza-regional-004-2019-rmdd-cr/` | Ordenanza Regional N° 004-2019-RMDD/CR: Aprueban el Reglamento de Organización y Operación del Comité Regional de Exportadores de Madre de Dios (CERX-MDD) | in force 24 June 2019 |
+| `ordenanza-regional-002-2018-rmdd-cr/` | Ordenanza Regional N° 002-2018-RMDD/CR: Aprueban el Plan Regional Contra la Trata de Personas en Madre de Dios 2018 - 2021 | in force 16 May 2018 |
+| `ordenanza-regional-017-2017-rmdd-cr/` | Ordenanza Regional N° 017-2017-RMDD/CR: Crean la Mesa Regional del Adulto Mayor de Madre de Dios | in force 20 April 2018 |
+| `ordenanza-regional-03-2015-rmdd-cr/` | Ordenanza Regional N° 03-2015-RMDD/CR: Aprueban el Texto Único de Procedimientos Administrativos (TUPA) del Proyecto Especial Madre de Dios | in force 14 June 2015 |
+| `ordenanza-regional-020-2013-rmdd-cr/` | Ordenanza Regional N° 020-2013-RMDD/CR: Aprueban el inicio del Proceso de Elaboración del Presupuesto Participativo del Gobierno Regional de Madre de Dios - Año… | in force 11 June 2013 |
+| `ordenanza-regional-015-2013-rmdd-cr/` | Ordenanza Regional N° 015-2013-RMDD/CR: Institucionalizan la "Mesa de Servicios Ambientales y Reducción de Emisiones por la Deforestación y Degradación (REDD+) … | in force 30 May 2013 |
+| `ordenanza-regional-017-2013-rmdd-cr/` | Ordenanza Regional N° 017-2013-RMDD/CR: Crean el Sistema de Información Ambiental Regional de Madre de Dios (SIAR - MDD) | in force 30 May 2013 |
+| `ordenanza-regional-012-2013-rmdd-cr/` | Ordenanza Regional N° 012-2013-RMDD/CR: Declaran la Semana Regional del Parque Nacional de Manu del 22 al 29 de mayo, y Feriado Regional el 29 de mayo, en el se… | in force 26 May 2013 |
+| `ordenanza-regional-013-2013-rmdd-cr/` | Ordenanza Regional N° 013-2013-RMDD/CR: Declaran de interés regional la creación de la Autoridad Regional Ambiental de Madre de Dios (ARA - MDD) | in force 26 May 2013 |
+| `ordenanza-regional-007-2013-rmdd-cr/` | Ordenanza Regional N° 007-2013-RMDD/CR: Crean el Consejo Regional de Competitividad | in force 26 May 2013 |
+| `ordenanza-regional-008-2013-rmdd-cr/` | Ordenanza Regional N° 008-2013-RMDD/CR: Aprueban el "Programa Regional de Población de la Región Madre de Dios 2013 -2017" | in force 26 May 2013 |
+| `ordenanza-regional-010-2013-rmdd-cr/` | Ordenanza Regional N° 010-2013-RMDD/CR: Declaran de interés regional la Adecuación Urbanística en espacios públicos y privados de la Región de Madre de Dios, co… | in force 26 May 2013 |
+| `ordenanza-regional-014-2013-rmdd-cr/` | Ordenanza Regional N° 014-2013-RMDD/CR: Modifican el Reglamento Interno del Consejo Regional de Madre de Dios | in force 26 May 2013 |
+| `ordenanza-regional-018-2013-rmdd-cr/` | Ordenanza Regional N° 018-2013-RMDD/CR: Institucionalizan la Mesa REDD+ Indígena de Madre de Dios | in force 17 May 2013 |
+| `ordenanza-regional-035-2012-rmdd-cr/` | Ordenanza Regional N° 035-2012-RMDD/CR: Aprueban Reglamento de Organización y Funciones (ROF-2012) y el Cuadro para Asignación de Personal (CAP) del Hospital Sa… | in force 23 April 2013 |
+| `ordenanza-regional-003-2013-rmdd-cr/` | Ordenanza Regional N° 003-2013-RMDD/CR: Aprueban el "Plan de Quinquenio o Plan de Mediano Plazo de la Educación de Madre de Dios 2012 - 2016" | in force 26 March 2013 |
+| `ordenanza-regional-004-2013-rmdd-cr/` | Ordenanza Regional N° 004-2013-RMDD/CR: Crean el Consejo Regional de Ciencia, Tecnología e Innovación Tecnológica de la Región Madre de Dios - CORCYTEC | in force 26 March 2013 |
+| `ordenanza-regional-002-2013-rmdd-cr/` | Ordenanza Regional N° 002-2013-RMDD/CR: Declaran la obligatoriedad de depositar copia de los resultados de las investigaciones de carácter científico en las Áre… | in force 26 March 2013 |
+| `ordenanza-regional-023-2012-rmdd-cr/` | Ordenanza Regional N° 023-2012-RMDD/CR: Aprueba Texto Único de Procedimientos Administrativos (TUPA-2011) de la Dirección Regional de Agricultura de Madre de Di… | in force 23 March 2013 |
+| `ordenanza-regional-032-2012-rmdd-cr/` | Ordenanza Regional N° 032-2012-RMDD/CR: Institucionalizan los Juegos Deportivos Escolares Regionales de Madre de Dios | in force 23 March 2013 |
+| `ordenanza-regional-022-2012-grmdd-cr/` | Ordenanza Regional N° 022-2012-GRMDD/CR: Aprueban el Diseño Curricular Regional de Educación Básica Regular de Madre de Dios | in force 23 March 2013 |
+| `ordenanza-regional-024-2012-grmdd-cr/` | Ordenanza Regional N° 024-2012-GRMDD/CR: Institucionalizan la condecoración anual denominada "Maestro del Año de la Región Madre de Dios" | in force 23 March 2013 |
+| `ordenanza-regional-025-2012-rmdd-cr/` | Ordenanza Regional N° 025-2012-RMDD/CR: Declaran de interés regional la conservación del Lago Huitoto | in force 23 March 2013 |
+| `ordenanza-regional-029-2012-rmdd-cr/` | Ordenanza Regional N° 029-2012-RMDD/CR: Modifican la Ordenanza Regional N° 013-2010-GRMDD/CR, sobre creación de Comisión Transitoria Intersectorial y de la Soci… | in force 23 March 2013 |
+| `ordenanza-regional-026-2012-grmdd-cr/` | Ordenanza Regional N° 026-2012-GRMDD/CR: Modifican el Reglamento de Organización y Funciones (ROF - 2012) de la Sede del Gobierno Regional de Madre de Dios | in force 23 March 2013 |
+| `ordenanza-regional-033-2012-rmdd-cr/` | Ordenanza Regional N° 033-2012-RMDD/CR: Institucionalizan la primera semana del mes de setiembre como la "Semana de la Promoción y Desarrollo Científico y Tecno… | in force 23 March 2013 |
+| `ordenanza-regional-020-2012-grmdd-cr/` | Ordenanza Regional N° 020-2012-GRMDD/CR: Aprueban el Reglamento de Organización y Funciones y el Cuadro para Asignación de Personal de la Dirección Regional de … | in force 15 November 2012 |
+| `ordenanza-regional-011-2012-grmdd-cr/` | Ordenanza Regional N° 011-2012-GRMDD/CR: Institucionalizan el uso de logotipo alusivo al I Centenario de Creación del departamento de Madre de Dios | in force 23 July 2012 |
+| `ordenanza-regional-009-2012-grmdd-cr/` | Ordenanza Regional N° 009-2012-GRMDD/CR: Modifican el Artículo Segundo de la Ordenanza Regional N° 35-2006-CR/RMDD, sobre institución del Registro Regional de O… | in force 23 July 2012 |
+| `ordenanza-regional-015-2012-grmdd-cr/` | Ordenanza Regional N° 015-2012-GRMDD/CR: Aprueban Reglamento de Infracciones y Sanciones - Transporte Fluvial Madre de Dios | in force 22 July 2012 |
+| `ordenanza-regional-013-2012-grmdd-cr/` | Ordenanza Regional N° 013-2012-GRMDD/CR: Convocan al Proceso de Elaboración del Presupuesto Participativo del Gobierno Regional - Año Fiscal 2013 | in force 20 July 2012 |
+| `ordenanza-regional-019-2011-rmdd-cr/` | Ordenanza Regional N° 019-2011-RMDD/CR: Aprueban el Manual de Procedimientos Administrativos de la Unidad de Archivo Institucional del Gobierno Regional | in force 20 July 2012 |
+| `ordenanza-regional-002-2012-rmdd-cr/` | Ordenanza Regional N° 002-2012-RMDD/CR: Aprueban Reglamento Interno de la Comisión Ambiental Regional - CAR del Gobierno Regional de Madre de Dios | in force 8 July 2012 |
+| `ordenanza-regional-004-2012-rmdd-cr/` | Ordenanza Regional N° 004-2012-RMDD/CR: Aprueban Cuadro para Asignación de Personal (CAP) 2011 del Hospital Santa Rosa de Puerto Maldonado | in force 8 July 2012 |
 
 ## Source
 
