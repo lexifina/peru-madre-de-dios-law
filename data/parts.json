@@ -1,0 +1,130 @@
+{
+ "parts": {
+  "30-ordenanzas-01.json": {
+   "acts": [
+    "ordenanza-regional-001-2020-rmdd-cr",
+    "ordenanza-regional-002-2020-rmdd-cr",
+    "ordenanza-regional-002-2023-rmdd-cr",
+    "ordenanza-regional-003-2020-rmdd-cr",
+    "ordenanza-regional-003-2021-rmdd-cr",
+    "ordenanza-regional-004-2021-rmdd-cr",
+    "ordenanza-regional-004-2023-rmdd-cr",
+    "ordenanza-regional-005-2023-rmdd-cr",
+    "ordenanza-regional-007-2019-rmdd-cr",
+    "ordenanza-regional-007-2020-rmdd-cr",
+    "ordenanza-regional-007-2021-rmdd-cr",
+    "ordenanza-regional-007-2023-rmdd-cr",
+    "ordenanza-regional-008-2021-rmdd-cr",
+    "ordenanza-regional-010-2021-rmdd-cr",
+    "ordenanza-regional-011-2020-rmdd-cr",
+    "ordenanza-regional-011-2022-rmdd-cr",
+    "ordenanza-regional-011-2025-rmdd-cr",
+    "ordenanza-regional-012-2020-rmdd-cr",
+    "ordenanza-regional-012-2021-rmdd-cr",
+    "ordenanza-regional-012-2022-rmdd-cr",
+    "ordenanza-regional-012-2024-rmdd-cr",
+    "ordenanza-regional-013-2020-rmdd-cr",
+    "ordenanza-regional-013-2022-rmdd-cr",
+    "ordenanza-regional-013-2026-rmdd-cr",
+    "ordenanza-regional-014-2021-rmdd-cr",
+    "ordenanza-regional-014-2023-rmdd-cr",
+    "ordenanza-regional-015-2020-rmdd-cr",
+    "ordenanza-regional-015-2023-rmdd-cr",
+    "ordenanza-regional-016-2020-rmdd-cr",
+    "ordenanza-regional-016-2022-rmdd-cr",
+    "ordenanza-regional-016-2023-rmdd-cr",
+    "ordenanza-regional-017-2023-rmdd-cr",
+    "ordenanza-regional-017-2024-rmdd-cr",
+    "ordenanza-regional-024-2023-rmdd-cr",
+    "ordenanza-regional-025-2023-rmdd-cr",
+    "ordenanza-regional-027-2023-rmdd-cr",
+    "ordenanza-regional-027-2024-rmdd-cr",
+    "ordenanza-regional-031-2023-rmdd-cr",
+    "ordenanza-regional-ordenanza-regional"
+   ],
+   "sha256": "4e21a8847266d329ef20752be422fee73415f92a36b84b903a3ae693a15c9d20"
+  },
+  "31-recuperadas-01.json": {
+   "acts": [
+    "ordenanza-regional-029-2025-rmdd-cr",
+    "ordenanza-regional-030-2023-rmdd-cr"
+   ],
+   "sha256": "4209561b7f3ec340b2b4a974c3ab67affc5a7335a82a4ca8d41847b090792cd4"
+  },
+  "32-anteriores-01.json": {
+   "acts": [
+    "ordenanza-regional-001-2018-rmdd-cr",
+    "ordenanza-regional-001-2019-rmdd-cr",
+    "ordenanza-regional-002-2016-rmdd-cr",
+    "ordenanza-regional-002-2017-rmdd-cr",
+    "ordenanza-regional-003-2017-rmdd-cr",
+    "ordenanza-regional-003-2018-rmdd-cr",
+    "ordenanza-regional-004-2017-rmdd-cr",
+    "ordenanza-regional-006-2019-rmdd-cr",
+    "ordenanza-regional-008-2011-grmdd-cr",
+    "ordenanza-regional-008-2017-rmdd-cr",
+    "ordenanza-regional-010-2016-rmdd-cr",
+    "ordenanza-regional-010-2018-rmdd-cr",
+    "ordenanza-regional-011-2016-rmdd-cr",
+    "ordenanza-regional-015-2018-rmdd-cr",
+    "ordenanza-regional-016-2017-rmdd-cr",
+    "ordenanza-regional-022-2017-rmdd-cr",
+    "ordenanza-regional-026-2017-rmdd-cr",
+    "ordenanza-regional-038-2010-grmdd-cr",
+    "ordenanza-regional-05-2017-rmdd-cr",
+    "ordenanza-regional-06-2017-rmdd-cr",
+    "ordenanza-regional-07-2015-rmdd-cr",
+    "ordenanza-regional-09-2016-rmdd-cr"
+   ],
+   "sha256": "0f201953fecb46321f4d7f11c8a23ae9477772b97ac04f44746786d7cefbfa5b"
+  },
+  "32-anteriores-02.json": {
+   "acts": [
+    "ordenanza-regional-001-2009-grmdd-cr",
+    "ordenanza-regional-005-2008-grmdd-cr",
+    "ordenanza-regional-012-2009-grmdd-cr",
+    "ordenanza-regional-022-2009-grmdd-cr"
+   ],
+   "sha256": "aa3c6fd3a055177d80c8adb1feaa8e89f9ac3c33379eb2b737d164dc9a79189e"
+  },
+  "32-anteriores-03.json": {
+   "acts": [
+    "ordenanza-regional-003-2010-grmdd-cr",
+    "ordenanza-regional-004-2010-grmdd-cr",
+    "ordenanza-regional-009-2011-grmdd-cr",
+    "ordenanza-regional-011-2011-grmdd-cr",
+    "ordenanza-regional-015-2010-grmdd-cr",
+    "ordenanza-regional-018-2010-grmdd-cr",
+    "ordenanza-regional-020-2010-grmdd-cr",
+    "ordenanza-regional-030-2009-grmdd-cr"
+   ],
+   "sha256": "459d8aaebb8b481d437d5cc58adf4cd219cda65ffbe2c68fee43235aa955ac5b"
+  },
+  "32-anteriores-04.json": {
+   "acts": [
+    "ordenanza-regional-008-2012-rmdd-cr",
+    "ordenanza-regional-016-2012-grmdd-cr",
+    "ordenanza-regional-016-2013-rmdd-cr",
+    "ordenanza-regional-018-2011-rmdd-cr",
+    "ordenanza-regional-019-2013-rmdd-cr",
+    "ordenanza-regional-021-2011-rmdd-cr",
+    "ordenanza-regional-027-2012-rmdd-cr",
+    "ordenanza-regional-028-2012-rmdd-cr",
+    "ordenanza-regional-030-2012-rmdd-cr",
+    "ordenanza-regional-031-2012-rmdd-cr"
+   ],
+   "sha256": "d93bb5e5fdb078c1e7a5c43a9683a6779da03c855f1f4d7ebfa930a4f855b34d"
+  },
+  "32-anteriores-05.json": {
+   "acts": [
+    "ordenanza-regional-001-2013-rmdd-cr",
+    "ordenanza-regional-009-2013-rmdd-cr",
+    "ordenanza-regional-011-2013-rmdd-cr",
+    "ordenanza-regional-36-2012-rmdd-cr",
+    "ordenanza-regional-37-2012-rmdd-cr"
+   ],
+   "sha256": "fc11314f09993f9cabc02815bb0fc1539292533a4c8e65355215225bea15af2f"
+  }
+ },
+ "schema": 1
+}
