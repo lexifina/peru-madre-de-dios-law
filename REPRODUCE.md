@@ -251,7 +251,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
 - Corpus: sha256 `6dd78bb88c2aa9a0fac23ce9c4c9824ca0d8c672de93560cf9f5f8f26290705f` (2204076 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `0fad90cf931c453951234ecf904d05ee79f3ec7e`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
